@@ -46,6 +46,13 @@
         "hash_map": "cpp",
         "list": "cpp",
         "iterator": "cpp",
-        "map": "cpp"
+        "map": "cpp",
+        "bit": "cpp",
+        "functional": "cpp",
+        "numeric": "cpp",
+        "random": "cpp",
+        "cinttypes": "cpp",
+        "variant": "cpp",
+        "regex": "cpp"
     }
 }
